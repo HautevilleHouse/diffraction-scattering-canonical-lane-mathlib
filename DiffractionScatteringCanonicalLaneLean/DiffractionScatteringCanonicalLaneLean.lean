@@ -1,0 +1,7 @@
+import DiffractionScatteringCanonicalLaneLean.AdmissibleClass
+
+namespace HautevilleHouse
+namespace DiffractionScatteringCanonicalLaneLean
+
+end DiffractionScatteringCanonicalLaneLean
+end HautevilleHouse
